@@ -41,7 +41,7 @@ DFIR-notes/
 │   ├── Memory forensics Lab.md
 │   ├── Network Forensics Lab.md
 │   └── cloud forensics.md
-└── labs/                       # Coming soon
+└── labs/                      
 ```
 
 | Section | Description |
