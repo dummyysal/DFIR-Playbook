@@ -1,14 +1,23 @@
-# Digital Forensics & Incident Response
+# Digital Forensics & Incident Response (DFIR) Playbook
 
 > Course Notes & Digital Forensics Practical Labs - [Redteamleaders](https://courses.redteamleaders.com/courses)
 
 [![Contributions welcome](https://img.shields.io/badge/Contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 [![Last updated](https://img.shields.io/badge/Last%20updated-April%202026-blue.svg)](#)
-
+[![Focus](https://img.shields.io/badge/Focus-DFIR%20%26%20Threat%20Hunting-red.svg)](#)
 ---
-
+## Overview
 The course is available on the Red Team Leaders Learning Academy. I highly recommend it as it offers a free certificate and provides valuable information for beginners, intermediate learners, and those seeking a structured reference for DFIR concepts. 
 This guide is complemented by technical labs mostly from CyberDefenders for hands-on practice.
+
+NOTE: By working through this repository, I am building practical skills in:
+
+- Digital Forensics investigation methodology
+- Incident Response lifecycle execution
+- Windows / Linux / Memory / Network analysis
+- Malware behavior and persistence detection
+- Evidence handling & forensic reporting
+- Cloud and container forensic concepts
 
 ## DFIR Certificate Content
 It covers 4 modules:
@@ -57,15 +66,23 @@ DFIR-notes/
 
 
 
-## 🧪 Practical mentioned Labs
+## Practical Labs & Case Studies
 
 - BlueSky Ransomware - Network Forensics lab 
-- Insider - Endpoint Forensics lab
+- Insider Threat Investigation - Endpoint Forensics lab
 - Reveal - windows memory dumps lab
-- Dissecting PE Headers - Tryhackme
+- PE Header Analysis – Static malware inspection
 
+> Labs are inspired by real DFIR workflows and CTF-style investigations (CyberDefenders, TryHackMe)
+> CyberDefenders offers free retired challenges! Check their [challenge archive](https://cyberdefenders.org/blueteam-ctf-challenges/) for practice.
 
-> 💡 CyberDefenders offers free retired challenges! Check their [challenge archive](https://cyberdefenders.org/blueteam-ctf-challenges/) for practice.
+## Purpose of This Repository
+
+This project is part of my continuous development in DFIR field , aiming to:
+
+- Strengthen forensic investigation skills
+- Bridge the gap between theory and SOC/DFIR practice
+This repository is continuously evolving as new labs, investigations, and forensic techniques are added.
 
 ## 🤝 Contributing
 
