@@ -1,5 +1,5 @@
 
-	Important Course Notes since Windows forensics is an essential area in Digital Forensics, as Windows systems are widely used everywhere, enterprise and personal environments..THAT'S why  Understanding Windows artifacts is critical for investigations.
+Important Course Notes since Windows forensics is an essential area in Digital Forensics, as Windows systems are widely used everywhere, enterprise and personal environments..THAT'S why  Understanding Windows artifacts is critical for investigations.
 Ps: For the practical lab, click here for the [[Memory forensics Lab]] which can be used also for hands-on practice.
 
 ## 1. Core Windows Forensic Priorities
