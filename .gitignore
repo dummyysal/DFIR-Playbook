@@ -1,0 +1,19 @@
+# Obsidian
+.obsidian/
+*.canvas
+*.base
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Temporary
+*.tmp
+*.temp
